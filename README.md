@@ -1,1 +1,2 @@
-# test_fixtures_for_django_models_in_pytest
+# test fixtures for django models in pytest
+
